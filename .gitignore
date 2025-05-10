@@ -1,0 +1,15 @@
+# Ignore Maven build output
+target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore VSCode project files
+.vscode/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore Maven wrapper files
+.mvn/
+
